@@ -1,3 +1,6 @@
+# [Blog입니다.]
+
+<!-- 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
@@ -192,7 +195,7 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 - [Lunr](http://lunrjs.com)
 
 ---
-
+주석처리 -->
 ## License
 
 The MIT License (MIT)
